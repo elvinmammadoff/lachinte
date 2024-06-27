@@ -117,10 +117,9 @@
 
 .slide-caption {
   font-family: 'AvenirNext', sans-serif ;
-  font-size:12px;
+  font-size:14px;
   line-height:24px;
   color:#e1b17e;
-  font-weight:600;
   opacity:0;
   overflow: hidden;
 }
