@@ -29,9 +29,31 @@
 /*--------------------------------------------------
 	01. General Styles
 ---------------------------------------------------*/		
+
+@font-face {
+  font-family: 'ActaPoster';
+  src: url('../fonts/ActaPoster/ActaPoster-Regular.woff') format('woff'),
+       url('../fonts/ActaPoster/ActaPoster-Regular.woff2') format('woff2')
+       url('../fonts/ActaPoster/ActaPoster-Regular.eot') format('eot'),
+       url('../fonts/ActaPoster/ActaPoster-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('../fonts/AvenirNext/AvenirNextLTPro-Regular.eot');
+  src: url('../fonts/AvenirNext/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/AvenirNext/AvenirNextLTPro-Regular.woff2') format('woff2'),
+      url('../fonts/AvenirNext/AvenirNextLTPro-Regular.woff') format('woff'),
+      url('../fonts/AvenirNext/AvenirNextLTPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 	
 html,body{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'AvenirNext', sans-serif;
   font-weight: 300;
   font-size:14px;
   height:100%;
