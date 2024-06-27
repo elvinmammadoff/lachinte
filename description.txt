@@ -1,0 +1,95 @@
+<div class="user-html user-html__with-lazy-load">
+<h3 id="item-description__lachinte-restaurant-slider-template">Lachinte – Restaurant Slider Template</h3>
+<p><strong>Lachinte</strong> Restaurant Slider is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages. <br><br>With <strong>Lachinte</strong> Furniture Slider you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get <strong>Lachinte</strong> Restaurant Slider and take your website to the next level.</p>
+
+
+<img src="https://lachinte.netlify.app/src/img/rate.png" alt="rate-us">
+
+<h3 id="item-description__why-choose-lachinte-restaurant-slider">Why choose Lachinte Restaurant Slider?</h3>
+<ul>
+<li>
+<strong>Completely Responsive Design</strong>
+<p>Optimized viewing on desktop, tablet and mobile devices.</p>
+</li>
+<li>
+<strong>Easy Customization</strong>
+<p>Customize each slide to meet your unique requirements and preferences.</p>
+</li>
+<li>
+<strong>Beautiful Appearance on Any Device</strong>
+<p>Great user experience on any screen size or resolution.</p>
+</li><li>
+<strong>Advanced Animation Effects</strong>
+<p>Eye-catching transitions between slides.</p>
+</li><li>
+<strong>Cross-Browser Compatibility</strong>
+<p>Seamless functionality on multiple browsers.</p>
+</li><li>
+<strong>Fast Loading Speed</strong>
+<p>Optimized user experience with fast loading times.</p>
+</li><li>
+<strong>User-Friendly Interface</strong>
+<p>Easy to use and navigate.</p>
+</li>
+</ul>
+<h3 id="item-description__other-features">Other Features</h3>
+<ul>
+
+<li>W3C HTML valid code</li>
+<li>Grid 1770 px</li>
+<li>Better Support (response within 24 hours)</li>
+<li>Free Regular Updates</li>
+<li>Well, Extensive Documentation</li>
+</ul>
+<h3 id="item-description__files-included">Files Included</h3>
+<ul>
+<li>HTML File</li>
+<li>Supporting CSS Files</li>
+<li>Supporting JS Files</li>
+
+<li>Documentation in HTML</li>
+</ul>
+<h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries License</h3>
+<ul>
+<li><a href="https://swiperjs.com/" rel="nofollow" target="_blank">Swiper</a> - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
+</li><li><a href="https://idiotwu.github.io/smooth-scrollbar/" rel="nofollow" target="_blank">Smooth Scrollbar</a> - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
+</li>
+</ul>
+<h3 id="item-description__fonts-used">Fonts used:</h3>
+<ul>
+<li><a href="https://en.bestfonts.pro/font/acta-poster" rel="nofollow" target="_blank">Acta Poster</a></li>
+<li><a href="https://fontspark.com/avenir-next-font-free-download/" rel="nofollow" target="_blank">AvenirNext Azeri</a></li>
+</ul>
+<h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
+<ul>
+<li>All images used are taken from <a href="https://pixabay.com/" target="_blank">Pixabay</a>. Pixabay is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
+</li>
+</ul>
+<h3 id="item-description__documentation">Documentation</h3>
+<a href="https://lachinte.netlify.app/documentation/" rel="nofollow" target="_blank">Check the docs here</a>
+<h3 id="item-description__customization-services">Important Note:</h3>
+<ul>
+<li>All images are just used for Preview Purpose Only. They are not part of the HTML templates and are not included in the final purchase files.</li>
+<li>Images and videos shown on our demo site are not part of the template download package due to licensing limitations and hence we are providing placeholder images with recommended image size mentioned in it.</li>
+<li>Any type of code or CSS customization and feature addition/change is not part of item support scope as per Envato item <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
+<li>Included a documentation file for full instruction.</li>
+</ul>
+<h3 id="item-description__sources-and-credits">Sources and Credits</h3>
+<p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://lachinte.netlify.app/documentation/index.html#credits" target="_blank">link</a></p>
+<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
+<h3 id="item-description__change-log">Change Log:</h3>
+<p>V. 1.0.0 – 29.06.2024</p>
+<pre>- Initial release</pre>
+<p>If you love our product, Don’t forget to rate it 5 stars</p>
+<p>
+<img src="https://lachinte.netlify.app/src/img/star.png" alt="star">
+<img src="https://lachinte.netlify.app/src/img/star.png" alt="star">
+<img src="https://lachinte.netlify.app/src/img/star.png" alt="star">
+<img src="https://lachinte.netlify.app/src/img/star.png" alt="star">
+<img src="https://lachinte.netlify.app/src/img/star.png" alt="star"> 
+and let us know your feedback for a better update. Thank you
+<img src="https://lachinte.netlify.app/src/img/smile.png" alt="happy">
+</p></div>
