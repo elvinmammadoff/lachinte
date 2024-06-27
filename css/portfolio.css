@@ -54,8 +54,7 @@
 
 .slide-title {
   font-family: 'ActaPoster', sans-serif;
-  font-size:80px;
-  line-height:90px;
+  font-size:58px;
   color:#e1b17e;
   position:relative;
 }
@@ -84,8 +83,6 @@
   margin: 0;
   min-width: 30px;
   width:auto;
-  line-height: 50px;
-  height: 50px;
   box-sizing: border-box;
 }
 
@@ -117,8 +114,7 @@
 
 .slide-caption {
   font-family: 'AvenirNext', sans-serif ;
-  font-size:14px;
-  line-height:24px;
+  font-size:25px;
   color:#e1b17e;
   opacity:0;
   overflow: hidden;
@@ -135,8 +131,8 @@
 
 .swiper-slide-active .slide-caption {
   opacity:1;
-  -webkit-transform: translateY(30px);
-  transform: translateY(30px);
+  -webkit-transform: translateY(20px);
+  transform: translateY(20px);
 }
 
 .slide-caption:before {
@@ -250,7 +246,6 @@ Responsive
 
 @media only screen and (max-width: 992px) {	
 
-
 .slide-title {
   font-size: 60px;
   line-height: 70px;
@@ -259,12 +254,8 @@ Responsive
 
 .swiper-slide {
     padding: 0 40px;
+    width: 100%;
 }
-
-/* .split-slider .swiper-slide {
-  -webkit-transform: translateX(300px);
-  transform: translateX(300px);
-} */
 
 #external-caption {
   left: 40px;
