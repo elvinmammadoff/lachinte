@@ -230,6 +230,20 @@
 /*--------------------------------------------------
 Responsive
 ---------------------------------------------------*/	
+@media screen and (min-width: 1400px) {
+  .slide-title {
+    font-size: 78px;
+  }
+  .slide-caption {
+    font-size: 35px;
+  }
+  .swiper-control button {
+    font-size: 24px !important;
+  }
+  #counter-wrap {
+    font-size: 22px !important;
+  }
+}
 
 @media only screen and (max-width: 1466px) {	
 
