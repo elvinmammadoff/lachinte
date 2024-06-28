@@ -31,11 +31,11 @@
 ---------------------------------------------------*/		
 
 @font-face {
-  font-family: 'ActaPoster';
-  src: url('../fonts/ActaPoster/ActaPoster-Regular.woff') format('woff'),
-       url('../fonts/ActaPoster/ActaPoster-Regular.woff2') format('woff2')
-       url('../fonts/ActaPoster/ActaPoster-Regular.eot') format('eot'),
-       url('../fonts/ActaPoster/ActaPoster-Regular.ttf') format('truetype');
+  font-family: 'GiazaStencil';
+  src: url('../fonts/GiazaStencil/GiazaStencil.woff') format('woff'),
+       url('../fonts/GiazaStencil/GiazaStencil.woff2') format('woff2')
+       url('../fonts/GiazaStencil/GiazaStencil.eot') format('eot'),
+       url('../fonts/GiazaStencil/GiazaStencil.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }

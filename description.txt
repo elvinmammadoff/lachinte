@@ -57,7 +57,7 @@
 </ul>
 <h3 id="item-description__fonts-used">Fonts used:</h3>
 <ul>
-<li><a href="https://en.bestfonts.pro/font/acta-poster" rel="nofollow" target="_blank">Acta Poster</a></li>
+<li><a href="https://www.fontslots.com/giza-stencil-font/" rel="nofollow" target="_blank">GiazaStencil</a></li>
 <li><a href="https://fontspark.com/avenir-next-font-free-download/" rel="nofollow" target="_blank">AvenirNext Azeri</a></li>
 </ul>
 <h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
@@ -78,7 +78,7 @@
 <p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://lachinte.netlify.app/documentation/index.html#credits" target="_blank">link</a></p>
 <h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
 </p><p>We are grateful to you.
-</p><p><strong>– Alissio –</strong></p>
+</p><p><strong>– Peachline –</strong></p>
 
 <h3 id="item-description__change-log">Change Log:</h3>
 <p>V. 1.0.0 – 29.06.2024</p>
